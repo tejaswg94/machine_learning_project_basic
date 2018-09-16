@@ -1,2 +1,0 @@
-This jupyter notebook contains predictive model built using PCA and Logistic regression for customers who are likely to churn with 81% accuracy and trained on different tree models to identify important predictor attributes to help the business understand indicators of churn.
-The data file associated with the program is very large and cannot be uploaded on github. In case of any query email me at tjswagh@gmail.com
